@@ -1,5 +1,5 @@
 {
-  "name": "vx-select",
+  "name": "@guodegang/vx-select",
   "description": "基于vue2的tree下拉",
   "version": "0.0.1",
   "keywords": [
